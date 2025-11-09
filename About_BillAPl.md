@@ -183,7 +183,7 @@ API Monetization Platform - Detailed Architecture Diagram
 
 ![alt text](https://github.com/BillAPIsEngine/Documentation/blob/main/Screenshot%202025-11-09%20at%2021.38.20.png)
 ![alt text](https://github.com/BillAPIsEngine/Documentation/blob/main/Screenshot%202025-11-09%20at%2021.38.34.png)
-![alt text]()
+![alt text](https://github.com/BillAPIsEngine/Documentation/blob/main/Screenshot%202025-11-09%20at%2021.38.44.png)
 
 
 
